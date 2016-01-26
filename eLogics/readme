@@ -1,0 +1,13 @@
+bin - created by express generator <br>
+controllers - same as what express route does. just rename to better show MVC <br>
+database - database <br>
+lib - common code share by different part of app. <br> 
+public - assets  <br>
+middleware - express middleware that process incoming request before delegating to respective routes in controllers <br>
+models - data representation and how to interact w/ database <br>
+views - jade templates  <br>
+tests - tests <br>
+app.sj main app initializing  <br>
+package.json dependencies specifications <br>
+
+
